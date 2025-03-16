@@ -2,7 +2,7 @@
 # Alumni Interaction and Conversation Dynamics
 
 ## **Overview**  
-This NLP and Sentiment Analysis project examines chat engagement dynamics in an alumni WhatsApp group using Latent Dirichlet Allocation (LDA) for topic modeling and network analysis to uncover communication patterns, topic distributions, and participant interactions. 
+This Natural Language Processing (NLP) and Sentiment Analysis project examines chat engagement dynamics in an alumni WhatsApp group using Latent Dirichlet Allocation (LDA) for topic modeling and network analysis to uncover communication patterns, topic distributions, and participant interactions. 
 
 
 ## **Dataset**  
