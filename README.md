@@ -1,9 +1,9 @@
 
 # Alumni-Interaction-and-Conversation-Dynamics-NLP 
----
 
 ## **Overview**  
 This project analyzes chat engagement dynamics within the Department of Statistics alumni WhatsApp group using **Latent Dirichlet Allocation (LDA)** for topic modeling and **network analysis** to uncover communication patterns, topic distributions, and participant interactions.  
+
 
 ## **Dataset**  
 The dataset consists of **3,091 messages** with the following breakdown:  
@@ -26,7 +26,9 @@ The dataset consists of **3,091 messages** with the following breakdown:
 3. **Network Analysis**  
    - Mapped participant interactions  
    - Identified highly active members and community structure  
-   - Analyzed engagement levels and isolated nodes  
+   - Analyzed engagement levels and isolated nodes
+
+---
 
 ## **Key Findings**  
 - The conversation is predominantly **faith-based**, with topics such as *Blessings & Devotion*, *Religious Messages*, and *Encouragement & Celebration*.  
@@ -46,7 +48,7 @@ The dataset consists of **3,091 messages** with the following breakdown:
 - Investigating **time-based engagement patterns**  
 
 ## **Contributors**  
-- **[Yusuf Abolarinwa]** – Research & Analysis  
+- **Yusuf Abolarinwa** – Research & Analysis  
 
 ## **License**  
 This project is licensed under the **MIT License**.  
