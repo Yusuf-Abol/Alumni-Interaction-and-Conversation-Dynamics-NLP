@@ -1,1 +1,5 @@
 # Alumni Interaction and Conversation Dynamics
+
+Education is so much more than the certificates and degrees we receive. It is about the lessons we learn, the people we meet, and the relationships we build along the way. Alumni networks, which are a key part of the educational journey, help keep these relationships alive long after graduation. These networks offer alumni a way to stay connected, share ideas, and continue growing both personally and professionally.
+
+With instant messaging platforms like WhatsApp being commonly used for closer digital interactions, it is important to stay connected and informed about what’s happening with former peers and how conversations unfold. My project aims to explore the quality of interactions within my department’s alumni WhatsApp group through sentiment analysis. By analyzing the emotions and engagement in these conversations, I seek to provide insights into how we stay connected, share experiences, and continue building relationships after graduation.
