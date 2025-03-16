@@ -52,7 +52,3 @@ The dataset consists of **3,091 messages** with the following breakdown:
 
 ## **License**  
 This project is licensed under the **MIT License**.  
-
----
-
-This README provides a professional and clear overview of your project. Let me know if you need modifications!
