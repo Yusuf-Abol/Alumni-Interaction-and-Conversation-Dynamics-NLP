@@ -1,1 +1,1 @@
-# Alumni Interaction and Conversatio Dynamics
+# Alumni Interaction and Conversation Dynamics
