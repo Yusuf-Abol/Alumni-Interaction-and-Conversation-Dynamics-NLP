@@ -10,7 +10,15 @@ The dataset consists of **3,091 messages** with the following breakdown:
 - **Average message length**: 28.14 characters  
 - **Media messages**: 343  
 - **Emojis used**: 1,040  
-- **Links shared**: 33  
+- **Links shared**: 33
+
+## **Challenges**
+          
+   - **Privacy and Ethical.** Considerations: Analyzing WhatsApp conversations involves accessing potentially sensitive personal data. To address this, I ensure the anonymization of alumni phone numbers and any other identifying details, safeguarding privacy while maintaining ethical standards throughout the analysis process.
+
+   - **Informal Language.** WhatsApp conversations often include slang, emojis, and informal language, which can complicate sentiment analysis.
+
+   - **Data Noise.** WhatsApp conversations contain excessive noise, such as irrelevant content, off-topic discussions, or incomplete sentences, which can complicate the sentiment analysis process. Cleaning the data and filtering out irrelevant content is essential to obtaining meaningful insights.
 
 ## **Methodology**  
 1. **Data Preprocessing**  
