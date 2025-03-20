@@ -14,7 +14,7 @@ The dataset consists of **3,091 messages** with the following breakdown:
 
 ## **Challenges**
           
-   - **Privacy and Ethical.** Considerations: Analyzing WhatsApp conversations involves accessing potentially sensitive personal data. To address this, I ensure the anonymization of alumni phone numbers and any other identifying details, safeguarding privacy while maintaining ethical standards throughout the analysis process.
+   - **Privacy and Ethical Considerations.** Analyzing WhatsApp conversations involves accessing potentially sensitive personal data. To address this, I ensure the anonymization of alumni phone numbers and any other identifying details, safeguarding privacy while maintaining ethical standards throughout the analysis process.
 
    - **Informal Language.** WhatsApp conversations often include slang, emojis, and informal language, which can complicate sentiment analysis.
 
