@@ -48,7 +48,7 @@ The dataset consists of **3,091 messages** with the following breakdown:
 - **Python** (for data preprocessing, LDA, and network analysis)  
 - **Gensim** (for topic modeling)  
 - **NetworkX** (for social network analysis)  
-- **Matplotlib, Seaborn & Plotly Express** (for data visualization)  
+- **Matplotlib, Seaborn, Plotly Express, and pyLDAvis** (for data visualization)  
 
 ## **Future Work**  
 - Expanding the dataset to capture **long-term engagement trends**  
