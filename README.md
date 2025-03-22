@@ -2,7 +2,7 @@
 # Alumni Interaction and Conversation Dynamics
 
 ## **Overview**  
-This Natural Language Processing (NLP) project examines chat engagement dynamics in an alumni WhatsApp group using Latent Dirichlet Allocation (LDA) for topic modeling and network analysis to uncover communication patterns, topic distributions, and participant interactions. 
+This Natural Language Processing (NLP) project examines chat engagement dynamics in the class of 2018 department of statistics, University of Ilorin alumni group. Using Latent Dirichlet Allocation (LDA) for topic modeling and network analysis, I was able to uncover communication patterns, topic distributions, and members interactions. 
 
 
 ## **Dataset**  
