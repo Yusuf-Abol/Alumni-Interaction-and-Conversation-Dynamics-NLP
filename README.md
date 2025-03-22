@@ -6,7 +6,7 @@ This Natural Language Processing (NLP) project took a dive into chat engagement 
 
 
 ## **Dataset**  
-The dataset consists of **3,091 messages** with the following breakdown:  
+The dataset was sourced from 'Certified Statistician' WhatsApp group consisting of **3,091 messages** with the following breakdown:  
 - **Average message length**: 28.14 characters  
 - **Media messages**: 343  
 - **Emojis used**: 1,040  
