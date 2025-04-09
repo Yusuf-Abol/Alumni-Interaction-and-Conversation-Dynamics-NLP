@@ -54,9 +54,3 @@ The dataset was sourced from 'Certified Statistician' WhatsApp group consisting 
 - Expanding the dataset to capture **long-term engagement trends**  
 - Applying **sentiment analysis** to understand emotional tones within topics  
 - Investigating **time-based engagement patterns**  
-
-## **Contributors**  
-- **Yusuf Abolarinwa** – Research & Analysis  
-
-## **License**  
-This project is licensed under the **MIT License**.  
